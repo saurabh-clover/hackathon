@@ -1,0 +1,4 @@
+com/clover/autotest/annotation/AutoTest.class
+com/baeldung/annotation/processor/BuilderProperty.class
+META-INF/services/javax.annotation.processing.Processor
+com/baeldung/annotation/processor/BuilderProcessor.class
